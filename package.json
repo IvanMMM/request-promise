@@ -39,7 +39,7 @@
     "tough-cookie": "^2.4.3"
   },
   "peerDependencies": {
-    "request": "^2.88.0"
+    "request": "git+https://github.com/IvanMMM/request.git"
   },
   "devDependencies": {
     "body-parser": "~1.15.2",
@@ -52,7 +52,7 @@
     "gulp-mocha": "~2.2.0",
     "lodash": "~4.13.1",
     "publish-please": "~2.1.4",
-    "request": "^2.88.0",
+    "request": "git+https://github.com/IvanMMM/request.git",
     "rimraf": "~2.5.3",
     "run-sequence": "~1.2.2"
   }
